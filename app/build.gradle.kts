@@ -1,6 +1,13 @@
 plugins {
     alias(libs.plugins.android.application)
 }
+
+
+
+
+
+
+
 android {
     namespace = "com.example.saksham_app
     compileSdk = 35
