@@ -9,10 +9,6 @@
 # and specify the fully qualified class name to the JavaScript interface
 # class:
 
-
-
-
-
 #-kee
 classmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
