@@ -10,6 +10,9 @@
 # class:
 
 
+
+
+
 #-kee
 classmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
